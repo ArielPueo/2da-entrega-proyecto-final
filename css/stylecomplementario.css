@@ -110,4 +110,23 @@ p {
 
 .about .about-box {
     text-align: center;
+    padding: 0 40px;
+}
+
+/*Acá comienza la sección del footer*/
+
+footer {
+    padding: 25px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+/*Estilado de la página "qué es la Historia?" y la "historia de leonardo da vinci" tomando la clase card*/
+
+.card {
+    margin: 50px;
+}
+
+.margin-contact {
+    margin: 50px;
 }
